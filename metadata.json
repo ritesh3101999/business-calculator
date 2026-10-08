@@ -1,0 +1,6 @@
+{
+  "name": "ShopCalc Pro - Commercial Business & Retail Calculator",
+  "description": "Professional business shop calculator with digital paper tape, tax (GST/VAT) engine, profit margin & markup, change denomination breakdown, and daily sales register.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
